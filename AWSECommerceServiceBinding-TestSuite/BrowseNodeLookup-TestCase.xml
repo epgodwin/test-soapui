@@ -52,6 +52,54 @@
       </con:request>
     </con:config>
   </con:testStep>
+  <con:testStep type="request" id="1ab09da8-bc93-47db-8f47-6e1a2ceae946" name="Copy of BrowseNodeLookup">
+    <con:settings/>
+    <con:config xsi:type="con:RequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <con:interface>AWSECommerceServiceBinding</con:interface>
+      <con:operation>BrowseNodeLookup</con:operation>
+      <con:request name="Copy of BrowseNodeLookup" id="7b6e46e3-8e25-433c-b56f-affb6e9ca60c">
+        <con:settings/>
+        <con:encoding>UTF-8</con:encoding>
+        <con:endpoint>https://webservices.amazon.ca/onca/soap?Service=AWSECommerceService</con:endpoint>
+        <con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <ns:BrowseNodeLookup>\r
+         <!--Optional:-->\r
+         <ns:MarketplaceDomain>?</ns:MarketplaceDomain>\r
+         <!--Optional:-->\r
+         <ns:AWSAccessKeyId>?</ns:AWSAccessKeyId>\r
+         <!--Optional:-->\r
+         <ns:AssociateTag>?</ns:AssociateTag>\r
+         <!--Optional:-->\r
+         <ns:Validate>?</ns:Validate>\r
+         <!--Optional:-->\r
+         <ns:XMLEscaping>?</ns:XMLEscaping>\r
+         <!--Optional:-->\r
+         <ns:Shared>\r
+            <!--Zero or more repetitions:-->\r
+            <ns:BrowseNodeId>?</ns:BrowseNodeId>\r
+            <!--Zero or more repetitions:-->\r
+            <ns:ResponseGroup>?</ns:ResponseGroup>\r
+         </ns:Shared>\r
+         <!--Zero or more repetitions:-->\r
+         <ns:Request>\r
+            <!--Zero or more repetitions:-->\r
+            <ns:BrowseNodeId>?</ns:BrowseNodeId>\r
+            <!--Zero or more repetitions:-->\r
+            <ns:ResponseGroup>?</ns:ResponseGroup>\r
+         </ns:Request>\r
+      </ns:BrowseNodeLookup>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request>
+        <con:credentials>
+          <con:selectedAuthProfile>Inherit From Parent</con:selectedAuthProfile>
+          <con:authType>No Authorization</con:authType>
+        </con:credentials>
+        <con:wsaConfig action="http://soap.amazon.com/BrowseNodeLookup"/>
+      </con:request>
+    </con:config>
+  </con:testStep>
   <con:properties/>
   <con:reportParameters/>
 </con:testCase>
