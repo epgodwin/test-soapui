@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:operation id="04927099-14aa-4b5b-9a65-d12254df139b" isOneWay="false" action="http://soap.amazon.com/CartModify" name="CartModify" bindingOperationName="CartModify" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="04927099-14aa-4b5b-9a65-d12254df139bfileName">CartModify</con:setting>
+  </con:settings>
+</con:operation>

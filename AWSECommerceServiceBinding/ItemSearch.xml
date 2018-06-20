@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:operation id="8928192c-bf1e-4a59-b133-6d7e39fe1aff" isOneWay="false" action="http://soap.amazon.com/ItemSearch" name="ItemSearch" bindingOperationName="ItemSearch" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="8928192c-bf1e-4a59-b133-6d7e39fe1afffileName">ItemSearch</con:setting>
+  </con:settings>
+</con:operation>

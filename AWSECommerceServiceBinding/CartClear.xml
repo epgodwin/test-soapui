@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:operation id="e6da8c1c-a216-4cf7-ae1e-4302f7fcbc0f" isOneWay="false" action="http://soap.amazon.com/CartClear" name="CartClear" bindingOperationName="CartClear" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="e6da8c1c-a216-4cf7-ae1e-4302f7fcbc0ffileName">CartClear</con:setting>
+  </con:settings>
+</con:operation>

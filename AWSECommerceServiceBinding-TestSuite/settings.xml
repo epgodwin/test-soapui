@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="2762916d-50cf-4fc1-9772-c3a5e22502b2" name="AWSECommerceServiceBinding TestSuite" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="2762916d-50cf-4fc1-9772-c3a5e22502b2fileName">AWSECommerceServiceBinding-TestSuite</con:setting>
+  </con:settings>
+  <con:runType>SEQUENTIAL</con:runType>
+  <con:properties/>
+  <con:reportParameters/>
+</con:testSuite>
