@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:operation id="d2162646-3298-4f15-84eb-67c8d5568dd4" isOneWay="false" action="http://soap.amazon.com/BrowseNodeLookup" name="BrowseNodeLookup" bindingOperationName="BrowseNodeLookup" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" xmlns:con="http://eviware.com/soapui/config">
+<con:operation id="d2162646-3298-4f15-84eb-67c8d5568dd4" isOneWay="false" action="http://soap.amazon.com/BrowseNodeLookup" name="BrowseNodeLookup" bindingOperationName="BrowseNodeLookup" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
   <con:settings>
     <con:setting id="d2162646-3298-4f15-84eb-67c8d5568dd4fileName">BrowseNodeLookup</con:setting>
   </con:settings>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:interface xsi:type="con:WsdlInterface" id="22d1a237-3f70-464e-9573-8ab26d9677f5" wsaVersion="NONE" name="AWSECommerceServiceBinding" type="wsdl" bindingName="{http://webservices.amazon.com/AWSECommerceService/2011-08-01}AWSECommerceServiceBinding" soapVersion="1_1" anonymous="optional" definition="http://webservices.amazon.com/AWSECommerceService/AWSECommerceService.wsdl" xmlns:con="http://eviware.com/soapui/config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<con:interface xsi:type="con:WsdlInterface" id="22d1a237-3f70-464e-9573-8ab26d9677f5" wsaVersion="NONE" name="AWSECommerceServiceBinding" type="wsdl" bindingName="{http://webservices.amazon.com/AWSECommerceService/2011-08-01}AWSECommerceServiceBinding" soapVersion="1_1" anonymous="optional" definition="http://webservices.amazon.com/AWSECommerceService/AWSECommerceService.wsdl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
   <con:settings>
     <con:setting id="22d1a237-3f70-464e-9573-8ab26d9677f5fileName">AWSECommerceServiceBinding</con:setting>
   </con:settings>

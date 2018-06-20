@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:operation id="a6489083-b19a-4f21-a896-933f6c4a57e9" isOneWay="false" action="http://soap.amazon.com/CartCreate" name="CartCreate" bindingOperationName="CartCreate" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" xmlns:con="http://eviware.com/soapui/config">
+<con:operation id="a6489083-b19a-4f21-a896-933f6c4a57e9" isOneWay="false" action="http://soap.amazon.com/CartCreate" name="CartCreate" bindingOperationName="CartCreate" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
   <con:settings>
     <con:setting id="a6489083-b19a-4f21-a896-933f6c4a57e9fileName">CartCreate</con:setting>
   </con:settings>

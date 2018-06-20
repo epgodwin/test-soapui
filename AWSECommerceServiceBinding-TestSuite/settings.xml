@@ -3,6 +3,7 @@
   <con:settings>
     <con:setting id="2762916d-50cf-4fc1-9772-c3a5e22502b2fileName">AWSECommerceServiceBinding-TestSuite</con:setting>
   </con:settings>
+  <con:savedRecentRuns>1</con:savedRecentRuns>
   <con:runType>SEQUENTIAL</con:runType>
   <con:properties/>
   <con:reportParameters/>

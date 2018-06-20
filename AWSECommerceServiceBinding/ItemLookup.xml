@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:operation id="e7c6cd12-cb77-4664-8b8f-b900afaa8b29" isOneWay="false" action="http://soap.amazon.com/ItemLookup" name="ItemLookup" bindingOperationName="ItemLookup" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" xmlns:con="http://eviware.com/soapui/config">
+<con:operation id="e7c6cd12-cb77-4664-8b8f-b900afaa8b29" isOneWay="false" action="http://soap.amazon.com/ItemLookup" name="ItemLookup" bindingOperationName="ItemLookup" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
   <con:settings>
     <con:setting id="e7c6cd12-cb77-4664-8b8f-b900afaa8b29fileName">ItemLookup</con:setting>
   </con:settings>
