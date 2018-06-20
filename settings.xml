@@ -3,10 +3,6 @@
   <con:settings>
     <con:setting id="ceb5d9cc-95c0-461b-b380-115b7dc921c5fileName">git-test</con:setting>
   </con:settings>
-  <con:vcsConfiguration>
-    <con:vcsName>Git</con:vcsName>
-    <con:repositoryIdentifier>https://github.com/epgodwin/test-soapui.git</con:repositoryIdentifier>
-  </con:vcsConfiguration>
   <con:savedRecentRuns>1</con:savedRecentRuns>
   <con:properties/>
   <con:wssContainer/>
